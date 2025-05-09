@@ -4,14 +4,19 @@ O suco pode ser feito somente com "laranja" ou "abacaxi".
 Qualquer outra fruta que não seja "laranja" ou "abacaxi" deve gerar uma mensagem de erro, informando que a fruta não é compatível.
 Crie um programa que, dado o nome da fruta, verifique se ela é compatível com a receita.
 
-Exemplo de entrada:
+**Exemplo de entrada:**
 
+```js
 const fruta = "maçã";
-Copiar código
-Saída esperada:
+```
+**Saída esperada:**
 
+```js
 Fruta incompatível para a receita.
-Copiar código
+```
+
 Ou caso seja "laranja" ou "abacaxi":
 
+```js
 Fruta compatível para a receita.
+```

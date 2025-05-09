@@ -2,32 +2,45 @@ Você está desenvolvendo um sistema para controlar o horário de funcionamento 
 
 Crie um programa que, dado o dia da semana em formato numérico:
 
-0: Domingo
-1: Segunda-feira
-2: Terça-feira
-3: Quarta-feira
-4: Quinta-feira
-5: Sexta-feira
-6: Sábado
+●  0: Domingo
+
+●  1: Segunda-feira  
+
+●  2: Terça-feira  
+
+● 3: Quarta-feira  
+
+●  4: Quinta-feira  
+
+●  5: Sexta-feira 
+
+●  6: Sábado  
+
 Verifique se a loja está aberta e qual o horário de funcionamento.
 
-Se for sábado (6) ou domingo (0), a loja estará aberta em horário especial.
-Nos outros dias, a loja estará aberta no horário normal.
+● Se for sábado (6) ou domingo (0), a loja estará aberta em horário especial.
+
+● Nos outros dias, a loja estará aberta no horário normal.
+
 Exemplo de entrada:
 
-
+```js
 const diaSemana = 6;
+```
+**Saída esperada:**
 
-Saída esperada:
-
+```js
 A loja está aberta em horário especial: 10h às 14h.
+```
 
+**Exemplo de entrada:**
 
-Exemplo de entrada:
-
+```js
 const diaSemana = 2;
+```
 
+**Saída esperada:**
 
-Saída esperada:
-
+```js
 A loja está aberta no horário normal: 9h às 18h.
+```
