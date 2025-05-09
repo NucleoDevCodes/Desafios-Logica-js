@@ -2,14 +2,20 @@ Você está criando um sistema de autenticação de usuários para um site. O si
 
 Crie um programa utilizando o operador ternário que realize essa verificação e exiba a mensagem correspondente.
 
-Exemplo de entrada:
+**Exemplo de entrada:**
 
+```js
 const usuario = "admin";
-Copiar código
-Saída esperada:
+```
 
+**Saída esperada:**
+
+```js
 Login bem-sucedido!
-Copiar código
+```
+
 Ou caso não seja "admin":
 
+```js
 Usuário inválido.
+```
