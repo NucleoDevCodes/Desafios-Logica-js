@@ -1,2 +1,3 @@
-# Logica-js
-Lógica de programação com javascript
+# Logica de programação
+
+Diversos desafios para treino
