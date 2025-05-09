@@ -2,19 +2,19 @@ Você está desenvolvendo um sistema para controlar o horário de funcionamento 
 
 Crie um programa que, dado o dia da semana em formato numérico:
 
-●  0: Domingo </br>
+●  0: Domingo
 
-●  1: Segunda-feira  </br>
+●  1: Segunda-feira  
 
-●  2: Terça-feira  </br>
+●  2: Terça-feira  
 
-● 3: Quarta-feira  </br>
+● 3: Quarta-feira  
 
-●  4: Quinta-feira  </br>
+●  4: Quinta-feira  
 
-●  5: Sexta-feira  </br>
+●  5: Sexta-feira 
 
-●  6: Sábado  </br>
+●  6: Sábado  
 
 Verifique se a loja está aberta e qual o horário de funcionamento.
 
